@@ -1,0 +1,13 @@
+C:\Users\Kizaru-PC\source\repos\TelecommunicationsOperator\TelecommunicationsOperator\bin\Debug\netcoreapp3.1\TelecommunicationsOperator.exe
+C:\Users\Kizaru-PC\source\repos\TelecommunicationsOperator\TelecommunicationsOperator\bin\Debug\netcoreapp3.1\TelecommunicationsOperator.deps.json
+C:\Users\Kizaru-PC\source\repos\TelecommunicationsOperator\TelecommunicationsOperator\bin\Debug\netcoreapp3.1\TelecommunicationsOperator.runtimeconfig.json
+C:\Users\Kizaru-PC\source\repos\TelecommunicationsOperator\TelecommunicationsOperator\bin\Debug\netcoreapp3.1\TelecommunicationsOperator.runtimeconfig.dev.json
+C:\Users\Kizaru-PC\source\repos\TelecommunicationsOperator\TelecommunicationsOperator\bin\Debug\netcoreapp3.1\TelecommunicationsOperator.dll
+C:\Users\Kizaru-PC\source\repos\TelecommunicationsOperator\TelecommunicationsOperator\bin\Debug\netcoreapp3.1\TelecommunicationsOperator.pdb
+C:\Users\Kizaru-PC\source\repos\TelecommunicationsOperator\TelecommunicationsOperator\obj\Debug\netcoreapp3.1\TelecommunicationsOperator.csprojAssemblyReference.cache
+C:\Users\Kizaru-PC\source\repos\TelecommunicationsOperator\TelecommunicationsOperator\obj\Debug\netcoreapp3.1\TelecommunicationsOperator.AssemblyInfoInputs.cache
+C:\Users\Kizaru-PC\source\repos\TelecommunicationsOperator\TelecommunicationsOperator\obj\Debug\netcoreapp3.1\TelecommunicationsOperator.AssemblyInfo.cs
+C:\Users\Kizaru-PC\source\repos\TelecommunicationsOperator\TelecommunicationsOperator\obj\Debug\netcoreapp3.1\TelecommunicationsOperator.csproj.CoreCompileInputs.cache
+C:\Users\Kizaru-PC\source\repos\TelecommunicationsOperator\TelecommunicationsOperator\obj\Debug\netcoreapp3.1\TelecommunicationsOperator.dll
+C:\Users\Kizaru-PC\source\repos\TelecommunicationsOperator\TelecommunicationsOperator\obj\Debug\netcoreapp3.1\TelecommunicationsOperator.pdb
+C:\Users\Kizaru-PC\source\repos\TelecommunicationsOperator\TelecommunicationsOperator\obj\Debug\netcoreapp3.1\TelecommunicationsOperator.genruntimeconfig.cache
